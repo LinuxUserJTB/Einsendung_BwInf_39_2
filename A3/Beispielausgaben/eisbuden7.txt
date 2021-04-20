@@ -1,0 +1,21 @@
+Berechnung des Prefixsummenarrays in 0.000028s
+Berechnung der optimalen Eisbudenposition zwischen zwei gegebenen Eisbuden in 1.177697s
+Absuchen aller Eisbudenkonstellationen in 3.416110s
+Gesamte Berechnung in 4.709048s
+Es gibt 16 stabile Konstellationen:
+[114, 285, 416]
+[114, 285, 417]
+[114, 285, 418]
+[114, 285, 419]
+[114, 285, 420]
+[114, 289, 416]
+[114, 289, 417]
+[114, 289, 418]
+[114, 289, 419]
+[114, 289, 420]
+[115, 285, 420]
+[115, 289, 420]
+[116, 285, 420]
+[116, 289, 420]
+[117, 285, 420]
+[117, 289, 420]

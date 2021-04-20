@@ -1,0 +1,15 @@
+Finaler Kenntnisstand bezüglich der Zuordnung:
+Apfel: [1]
+Banane: [5, 10, 11]
+Clementine: [5, 10, 11]
+Himbeere: [5, 10, 11]
+Kiwi: [6]
+Litschi: [7]
+Dattel: [2, 9]
+Erdbeere: [8]
+Feige: [2, 9]
+Johannisbeere: [4]
+Ingwer: [12]
+Grapefruit: [3]
+Menge der Schüsseln, in denen sich die Wunschsorten befinden:
+[1, 5, 6, 7, 10, 11]

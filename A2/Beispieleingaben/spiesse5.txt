@@ -1,0 +1,11 @@
+20
+Apfel Banane Clementine Dattel Grapefruit Himbeere Mango Nektarine Orange Pflaume Quitte Sauerkirsche Tamarinde 
+4
+16 15 14 13 6 9 7 17 2 3 
+Banane Dattel Johannisbeere Kiwi Litschi Nektarine Orange Quitte Rosine Sauerkirsche 
+2 1 6 19 9 3 5 10 7 12 4 16 15 
+Apfel Banane Dattel Grapefruit Himbeere Kiwi Litschi Mango Orange Pflaume Quitte Sauerkirsche Tamarinde 
+5 11 13 16 10 20 7 2 15 
+Clementine Himbeere Ingwer Johannisbeere Kiwi Litschi Orange Pflaume Sauerkirsche 
+3 7 8 13 9 12 5 11 15 17 
+Banane Erdbeere Himbeere Ingwer Johannisbeere Kiwi Litschi Quitte Rosine Tamarinde 

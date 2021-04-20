@@ -1,0 +1,21 @@
+Finaler Kenntnisstand bezüglich der Zuordnung:
+Clementine: [5]
+Erdbeere: [8]
+Feige: [7, 10]
+Himbeere: [1]
+Ingwer: [7, 10]
+Kiwi: [12]
+Litschi: [2, 11]
+Grapefruit: [2, 11]
+Johannisbeere: [9]
+Nektarine: [4]
+Orange: [3]
+Dattel: [13]
+Apfel: [6, 14]
+Banane: [6, 14]
+null: [15]
+Menge der Schüsseln, in denen sich die Wunschsorten befinden:
+[1, 2, 5, 7, 8, 10, 11, 12]
+Achtung! Schüsseln könnten auch andere Obstsorten beinhalten! Kritisch sind folgende Gruppen:
+[Litschi, Grapefruit] in [2, 11]
+Diese Schüsseln und Obstsorten sollten genauer beobachtet werden!

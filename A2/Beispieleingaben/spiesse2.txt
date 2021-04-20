@@ -1,0 +1,13 @@
+12
+Apfel Banane Clementine Himbeere Kiwi Litschi 
+5
+2 8 6 9 1 7 4 
+Apfel Dattel Erdbeere Feige Johannisbeere Kiwi Litschi 
+11 1 12 8 4 5 10 
+Apfel Banane Clementine Erdbeere Himbeere Ingwer Johannisbeere 
+5 2 9 8 11 3 10 
+Banane Clementine Dattel Erdbeere Feige Grapefruit Himbeere 
+4 6 12 1 2 9 3 
+Apfel Dattel Feige Grapefruit Ingwer Johannisbeere Kiwi 
+3 4 7 11 5 10 
+Banane Clementine Grapefruit Himbeere Johannisbeere Litschi 

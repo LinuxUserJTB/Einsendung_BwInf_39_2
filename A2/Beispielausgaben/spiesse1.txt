@@ -1,0 +1,13 @@
+Finaler Kenntnisstand bezüglich der Zuordnung:
+Clementine: [1]
+Erdbeere: [2, 4]
+Grapefruit: [7]
+Himbeere: [2, 4]
+Johannisbeere: [5]
+Banane: [3]
+Feige: [10]
+Ingwer: [6]
+Apfel: [8]
+Dattel: [9]
+Menge der Schüsseln, in denen sich die Wunschsorten befinden:
+[1, 2, 4, 5, 7]

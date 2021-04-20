@@ -1,0 +1,13 @@
+Finaler Kenntnisstand bezüglich der Zuordnung:
+A: [1, 2, 3, 7, 10]
+B: [1, 2, 3, 7, 10]
+C: [1, 2, 3, 7, 10]
+D: [1, 2, 3, 7, 10]
+E: [1, 2, 3, 7, 10]
+F: [4, 5, 6, 8, 9]
+G: [4, 5, 6, 8, 9]
+H: [4, 5, 6, 8, 9]
+I: [4, 5, 6, 8, 9]
+J: [4, 5, 6, 8, 9]
+Menge der Schüsseln, in denen sich die Wunschsorten befinden:
+[1, 2, 3, 7, 10]

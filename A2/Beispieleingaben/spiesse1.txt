@@ -1,0 +1,11 @@
+10
+Clementine Erdbeere Grapefruit Himbeere Johannisbeere 
+4
+6 10 3 
+Banane Feige Ingwer 
+2 1 9 8 4 
+Apfel Clementine Dattel Erdbeere Himbeere 
+5 8 10 4 2 
+Apfel Erdbeere Feige Himbeere Johannisbeere 
+6 4 2 5 9 
+Dattel Erdbeere Himbeere Ingwer Johannisbeere 

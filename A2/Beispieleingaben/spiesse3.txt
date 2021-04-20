@@ -1,0 +1,11 @@
+15
+Clementine Erdbeere Feige Himbeere Ingwer Kiwi Litschi 
+4
+4 7 9 10 12 3 2 11 
+Feige Grapefruit Ingwer Johannisbeere Kiwi Litschi Nektarine Orange 
+10 3 4 7 2 5 11 13 
+Clementine Dattel Feige Grapefruit Ingwer Litschi Nektarine Orange 
+4 12 9 5 3 14 1 6 
+Apfel Banane Clementine Himbeere Johannisbeere Kiwi Nektarine Orange 
+1 3 11 8 2 9 13 
+Dattel Erdbeere Grapefruit Himbeere Johannisbeere Litschi Orange 

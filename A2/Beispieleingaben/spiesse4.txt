@@ -1,0 +1,15 @@
+17
+Apfel Feige Grapefruit Ingwer Kiwi Nektarine Orange Pflaume 
+6
+16 7 9 1 2 11 6 15 8 
+Apfel Clementine Erdbeere Grapefruit Himbeere Ingwer Kiwi Mango Nektarine 
+1 2 12 17 16 6 11 4 7 
+Banane Erdbeere Himbeere Ingwer Kiwi Mango Nektarine Pflaume Quitte 
+16 2 13 17 11 8 4 14 3 
+Banane Erdbeere Feige Grapefruit Himbeere Kiwi Litschi Orange Quitte 
+7 16 17 1 12 2 14 10 13 9 
+Apfel Banane Dattel Erdbeere Feige Kiwi Mango Nektarine Orange Pflaume 
+12 5 16 3 17 8 1 7 2 11 14 
+Banane Erdbeere Grapefruit Himbeere Johannisbeere Kiwi Litschi Mango Nektarine Orange Pflaume 
+12 8 16 14 4 15 1 5 13 10 6 
+Clementine Dattel Erdbeere Feige Grapefruit Ingwer Johannisbeere Mango Orange Pflaume Quitte 

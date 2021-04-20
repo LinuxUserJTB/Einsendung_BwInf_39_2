@@ -1,0 +1,9 @@
+Finaler Kenntnisstand bezüglich der Zuordnung:
+Apfel: [1, 4]
+Brombeere: [1, 4]
+Weintraube: [3]
+Banane: [5]
+Pflaume: [6]
+Erdbeere: [2]
+Menge der Schüsseln, in denen sich die Wunschsorten befinden:
+[1, 3, 4]

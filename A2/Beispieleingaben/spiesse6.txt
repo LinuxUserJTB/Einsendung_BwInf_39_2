@@ -1,0 +1,19 @@
+23
+Clementine Erdbeere Himbeere Orange Quitte Rosine Ugli Vogelbeere 
+8
+13 18 3 22 14 2 12 15 23 21 20 11 8 
+Apfel Banane Feige Himbeere Ingwer Johannisbeere Kiwi Litschi Nektarine Orange Rosine Ugli Weintraube 
+11 20 18 2 9 15 4 19 12 5 
+Dattel Himbeere Johannisbeere Nektarine Orange Pflaume Quitte Rosine Tamarinde Ugli 
+4 8 1 11 23 17 21 9 13 7 15 2 3 16 
+Apfel Banane Clementine Grapefruit Kiwi Litschi Mango Nektarine Pflaume Quitte Rosine Sauerkirsche Ugli Weintraube 
+1 5 9 17 19 8 3 7 22 
+Apfel Banane Clementine Dattel Feige Grapefruit Mango Pflaume Tamarinde 
+17 14 4 13 12 1 18 5 21 10 3 
+Apfel Dattel Erdbeere Grapefruit Himbeere Ingwer Johannisbeere Litschi Mango Quitte Weintraube 
+2 5 20 4 18 17 22 12 7 9 10 14 23 1 
+Clementine Dattel Erdbeere Feige Grapefruit Himbeere Ingwer Johannisbeere Kiwi Mango Nektarine Orange Pflaume Quitte 
+23 21 10 3 17 5 9 2 8 19 13 20 22 
+Apfel Banane Dattel Erdbeere Feige Grapefruit Kiwi Litschi Nektarine Orange Pflaume Tamarinde Weintraube 
+2 9 3 21 16 12 10 23 20 6 7 5 
+Apfel Clementine Dattel Erdbeere Johannisbeere Kiwi Nektarine Orange Pflaume Sauerkirsche Vogelbeere Weintraube 
